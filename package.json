@@ -1,0 +1,30 @@
+{
+  "name": "blog_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "blogwebsite": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGARJUN/Blog_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGARJUN/Blog_Website/issues"
+  },
+  "homepage": "https://github.com/GGARJUN/Blog_Website#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "marked": "^11.1.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.1.0",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
