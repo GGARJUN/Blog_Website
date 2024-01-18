@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/GGARJUN/Blog_Website#readme",
   "dependencies": {
+    "dompurify": "^3.0.8",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "jsdom": "^23.2.0",
     "marked": "^11.1.1",
     "method-override": "^3.0.0",
     "mongoose": "^8.1.0",
